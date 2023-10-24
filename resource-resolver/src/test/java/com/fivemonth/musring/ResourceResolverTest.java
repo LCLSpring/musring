@@ -1,5 +1,6 @@
 package com.fivemonth.musring;
 
+import com.fivemonth.musring.resourceresolver.ResourceResolver;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
 import jakarta.annotation.security.PermitAll;

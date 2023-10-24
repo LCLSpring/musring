@@ -1,4 +1,4 @@
-package com.fivemonth.musring;
+package com.fivemonth.musring.resourceresolver;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
